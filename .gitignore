@@ -1,0 +1,15 @@
+# React files
+node_modules/
+build/
+.env
+.DS_Store
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+venv/
+*.egg-info/
