@@ -148,13 +148,11 @@ The application includes a feature to **generate and download structured test ca
 
 3. **Download PDF**: After generation, the test case can be downloaded in PDF format.
 
----
 
 ### Example Test Case Template:
 
 refer [Template](./template.txt) for detailed format
 
----
 
 ## Usage
 
@@ -162,11 +160,7 @@ refer [Template](./template.txt) for detailed format
 2. **Generate Test Cases**: Click the "Generate" button to create structured test cases.
 3. **Download PDF**: After the test cases are displayed, click on the "Download PDF" button to export the generated test case to a PDF file.
 
----
-
 ## Testing and Output
 
 - **Test Input**: Screenshots and details what the screecshot is about and other details about the test cases you want form it.
 - **Test Output**: A downloadable PDF file containing the generated test case.
-
----
