@@ -1,0 +1,57 @@
+testscript.ai
+
+Test Case ID: TC001
+
+
+Test Case Title:
+
+Verify Login Functionality
+
+
+Description:
+
+This test case will verify the login functionality of the application.
+
+
+Preconditions:
+
+The application is installed and running.
+
+The user has a valid account with correct credentials.
+
+
+Test Steps:
+
+Launch the application.
+
+Enter valid username.
+
+Enter valid password.
+
+Click on the "Login" button.
+
+
+Expected Results:
+
+The user should be successfully logged into the application and redirected to the main dashboard.
+
+
+Actual Results:
+
+The user is successfully logged in. #login
+
+The user is redirected to the main dashboard. #navigation
+
+
+Test Data:
+
+Username: testuser
+
+Password: testpassword
+
+
+Notes:
+
+If the user enters incorrect credentials, an error message should be displayed. #error-handling
+
+Verify the error message is clear and helpful
